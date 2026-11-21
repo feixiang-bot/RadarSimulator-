@@ -1,0 +1,241 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-170ae84b5605d5a8120c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Radar_Simulator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Radar_Simulator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Radar_Simulator-Debug-681792f1d681b60a2d67.json",
+					"name" : "Radar_Simulator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Radar_Simulator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Radar_Simulator_autogen-Debug-44f1621fe25157cb243a.json",
+					"name" : "Radar_Simulator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Radar_Simulator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Radar_Simulator_autogen_timestamp_deps-Debug-716ec68ddaf7f2462f37.json",
+					"name" : "Radar_Simulator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_coordconverter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_coordconverter-Debug-8699eb4c972f6c91b83f.json",
+					"name" : "test_coordconverter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_coordconverter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_coordconverter_autogen-Debug-3ac4d1484a4727b99927.json",
+					"name" : "test_coordconverter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_coordconverter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_coordconverter_autogen_timestamp_deps-Debug-6234b53712d9730ab590.json",
+					"name" : "test_coordconverter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_scenarioio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_scenarioio-Debug-b8b6f9d6e373d57f3845.json",
+					"name" : "test_scenarioio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_scenarioio_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_scenarioio_autogen-Debug-cc66a25994838c326fed.json",
+					"name" : "test_scenarioio_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_scenarioio_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_scenarioio_autogen_timestamp_deps-Debug-f3aca96db50e86218cbb.json",
+					"name" : "test_scenarioio_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_simengine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_simengine-Debug-8d5e456cc11e10471434.json",
+					"name" : "test_simengine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_simengine_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_simengine_autogen-Debug-2ab86ed93b7ef6bb6130.json",
+					"name" : "test_simengine_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_simengine_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_simengine_autogen_timestamp_deps-Debug-f4170f1e055ab4f47e68.json",
+					"name" : "test_simengine_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_target-Debug-4975b209c150c9e286a4.json",
+					"name" : "test_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_target_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_target_autogen-Debug-e4c6bc19d83e28f4ac10.json",
+					"name" : "test_target_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_target_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_target_autogen_timestamp_deps-Debug-1dcfde770970faa94c78.json",
+					"name" : "test_target_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_targetmanager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_targetmanager-Debug-7971247fae1bac8db14a.json",
+					"name" : "test_targetmanager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_targetmanager_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_targetmanager_autogen-Debug-55716065fc02323c9a65.json",
+					"name" : "test_targetmanager_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_targetmanager_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_targetmanager_autogen_timestamp_deps-Debug-3faeaa377abe6372b673.json",
+					"name" : "test_targetmanager_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_udpprotocol::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_udpprotocol-Debug-08e198005e0f5d72f195.json",
+					"name" : "test_udpprotocol",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_udpprotocol_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_udpprotocol_autogen-Debug-2cf619a8b585a5846533.json",
+					"name" : "test_udpprotocol_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_udpprotocol_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_udpprotocol_autogen_timestamp_deps-Debug-d99e6331751b061838a7.json",
+					"name" : "test_udpprotocol_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/My_Project/Radar_Simulator/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug",
+		"source" : "C:/Qt/My_Project/Radar_Simulator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

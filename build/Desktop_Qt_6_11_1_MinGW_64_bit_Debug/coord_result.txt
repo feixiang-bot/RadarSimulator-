@@ -1,0 +1,11 @@
+********* Start testing of TestCoordConverter *********
+Config: Using QtTest library 6.11.1, Qt 6.11.1 (x86_64-little_endian-llp64 shared (dynamic) release build; by GCC 13.1.0), windows 11
+PASS   : TestCoordConverter::initTestCase()
+PASS   : TestCoordConverter::polarToScreenCardinals()
+PASS   : TestCoordConverter::polarToScreenRangeMapping()
+FAIL!  : TestCoordConverter::screenToPolarCardinals() 'qAbs(a - 0.0) < 1e-9' returned FALSE. ()
+C:\Qt\My_Project\Radar_Simulator\tests\test_coordconverter.cpp(61) : failure location
+PASS   : TestCoordConverter::polarScreenRoundTrip()
+PASS   : TestCoordConverter::cleanupTestCase()
+Totals: 5 passed, 1 failed, 0 skipped, 0 blacklisted, 1ms
+********* Finished testing of TestCoordConverter *********
